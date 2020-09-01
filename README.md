@@ -1,3 +1,5 @@
+This code is associated with the paper from Chen et al., "Tuning movement for sensing in an uncertain world". eLife, 2020. http://doi.org/10.7554/eLife.52371
+
 # Code and data to reproduce results from "Tuning movement for sensing in an uncertain world" by Chen Chen, Todd D. Murphey, and Malcolm A. MacIver, Northwestern University, Evanston IL, USA (eLife, 2020).
 
 
